@@ -34,6 +34,6 @@ I'm passionate about exploring various topics in my projects, and I have worked 
 - 🏈 *NFL Project*: This was a project where I scraped, processed, stored, and analyzed NFL data. The aim was to identify patterns and relationships in the data.
 - 🎩 *Monopoly Game*: I created a game of Monopoly and used a genetic algorithm to develop an AI player that could learn how to play the game better.
 
-## Open-Source Collaboration
+## Open-Source 📖 Collaboration
 
 Although I have never worked on an open-source project, I'm eager to begin contributing and collaborating with other developers, having relied so heavily on them in both my professional and personal work. If you have any projects you think I can help with, let me know, and I'll be happy to pitch in!
