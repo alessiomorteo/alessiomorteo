@@ -5,7 +5,7 @@ Thanks for stopping by my GitHub profile! I'm a Data Scientist passionate about 
 - 🌱 I’m currently learning Software Engineering Skills to progress my ability
 - ⚡ Fun fact: I stumbled into the world of Data Science by total accident
 - 💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
-- 💬 Talk to me about Sports (Football/soccer, NFL), Memes, Movies movie_camera
+- 💬 Talk to me about Sports (Football/soccer ⚽, NFL 🏈), Memes 😂, Movies 🎥
 
 I specialise in the following programming languages:
 <div align="center">
@@ -31,8 +31,8 @@ I also have experience working with the following technologies:
 
 I'm passionate about exploring various topics in my projects, and I have worked on several exciting ones. Here are a couple of notable ones:
 
-- *NFL Project*: This was a project where I scraped, processed, stored, and analyzed NFL data. The aim was to identify patterns and relationships in the data.
-- *Monopoly Game*: I created a game of Monopoly and used a genetic algorithm to develop an AI player that could learn how to play the game better.
+- 🏈 *NFL Project*: This was a project where I scraped, processed, stored, and analyzed NFL data. The aim was to identify patterns and relationships in the data.
+- 🎩 *Monopoly Game*: I created a game of Monopoly and used a genetic algorithm to develop an AI player that could learn how to play the game better.
 
 ## Open-Source Collaboration
 
