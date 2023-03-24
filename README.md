@@ -1,6 +1,6 @@
 # Hello there, I'm Alessio 👋
 
-Thanks for stopping by my GitHub profile! I'm a Data Scientist passionate about experiment as much as possible. I enjoy having many projects on the go and have a special interest in the engineering aspect of working with data.
+Thanks for stopping by my GitHub profile! I'm a Data Scientist passionate about experimenting and trying as much as possible. I enjoy having many projects on the go and have a special interest in the engineering aspect of working with data.
 
 - 🌱 I’m currently learning Software Engineering Skills to progress my ability
 - ⚡ Fun fact: I stumbled into the world of Data Science by total accident
@@ -27,7 +27,7 @@ I also have experience working with the following technologies:
 </div>
 <br/>
 
-## What I'm Working On
+## What I'm Working On 🔭
 
 I'm passionate about exploring various topics in my projects, and I have worked on several exciting ones. Here are a couple of notable ones:
 
